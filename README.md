@@ -12,7 +12,7 @@ The purpose of this project was to build an application that can write, save, an
 
 ## Getting Started
 
-Below is the link to the project repository, a link to the deployed application on Heroku, and a link to the video of how the application works. 
+Below is the link to the project repository, a link to the deployed application on Heroku, and a video of how the application works. 
 
 https://github.com/andedu15/Express-Note-Taker
 
