@@ -1,4 +1,4 @@
-// CREATE (get), READ (post), UPDATE (put), DELETE (delete) => CRUD
+// CREATE (get), READ (post), UPDATE (put), DELETE (delete) => CRUD*
 
 
 // ==========
